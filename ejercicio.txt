@@ -1,0 +1,19 @@
+crear un proyecto nuevo en visual studio
+crear carpeta llamada GIT2
+crear archivo1 archivo2 archivo3
+inicializa GIT
+confirma tu primer cambio
+crea la rama2
+crea archivo3 archivo4
+confirma los cambios
+crea archivo5 y agrega texto en los archivos 3 y 4
+confirma los cambios
+parate checlout en tu rama main
+mezcla los cambios de la rama main en la eama 2
+si nte da conflicto resuelvelo
+te dio conflicto por que si o porque nuevo
+cambia el texto en el archivo1 y confirma el cambio
+parate en la rama 2 cambia a un texto completeamente diferente en el archivo 1
+mezcla la rama main con la rama 2 los cambios tienen que quedar en la rama2
+si te da conflicto resuelvelote dio conflicto por que si o porque no
+
